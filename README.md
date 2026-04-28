@@ -8,26 +8,6 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ---
 
-###  Certifications & Education
-* **Google Data Analytics Professional Certificate** (In Progress)
-  * Completed: *Foundations: Data, Data, Everywhere* with a grade of **98%**.
-* **Bachelor of Computer Science** | RUPP (Year 1)
-* Completed Foundations of **Cybersecurity** and **Networking**.
-
-###  Professional Experience
-* **IT Support** (2 Months)
-  * Provided technical assistance, troubleshooting hardware/software, and maintained network connectivity.
-
-####  Cybersecurity & Networking
-* **Knowledge:** Network Foundations, Operating System Security.
-* **Tools:** Familiar with Kali Linux.
-
-####  Software Development
-* **Languages:** Learning **Kotlin** for modern app development.
-* **Operating System:** Beginner user of **Ubuntu** 
-
----
-
 ###  Featured Data Projects
 *  **[Python-project](https://github.com/Vath7677/Python-project)**: General Python scripting and logic.
 *  **[Pandas-project](https://github.com/Vath7677/Pandas-project)**: Data analysis using the Pandas library.
@@ -59,6 +39,26 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 ![Networking](https://img.shields.io/badge/Tool-Network-00599C?style=flat-square&logo=cisco&logoColor=white)
 ![Cyber](https://img.shields.io/badge/Tool-Cyber-000000?style=flat-square&logo=kali-linux&logoColor=white)
 
+---
+
+###  Certifications & Education
+* **Google Data Analytics Professional Certificate** (In Progress)
+  * Completed: *Foundations: Data, Data, Everywhere* with a grade of **98%**.
+* **Bachelor of Computer Science** | RUPP (Year 1)
+* Completed Foundations of **Cybersecurity** and **Networking**.
+
+###  Professional Experience
+* **IT Support** (2 Months)
+  * Provided technical assistance, troubleshooting hardware/software, and maintained network connectivity.
+
+####  Cybersecurity & Networking
+* **Knowledge:** Network Foundations, Operating System Security.
+* **Tools:** Familiar with Kali Linux.
+
+####  Software Development
+* **Languages:** Learning **Kotlin** for modern app development.
+* **Operating System:** Beginner user of **Ubuntu**
+  
 ---
 
 ###  Contact Me

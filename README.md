@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vath7677/Python-project/blob/main/AI%20pic.png?raw=true" alt="AI and Machine Learning Banner" width="100%">
+  <img src="https://github.com/Vath7677/Python-project/blob/main/AI.png?raw=true" alt="AI and Machine Learning Banner" width="100%">
 </p>
 
 # Hi there! I'm Vath 

@@ -40,24 +40,24 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ### 🛠 Technologies & Tools
 
-<!-- Programming Languages -->
-![C](https://img.shields.io/badge/Code-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Code-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<!-- Libraries & Frameworks -->
+<!-- ML & Analysis -->
+![Matplotlib](https://img.shields.io/badge/Tool-Matplotlib-316192?style=flat-square&logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/Tool-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Tool-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Tool-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Tool-Seaborn-4470AD?style=flat-square&logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Tool-Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/Tool-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-<!-- Specializations -->
-![Networking](https://img.shields.io/badge/Tool-Networking-00599C?style=flat-square&logo=cisco&logoColor=white)
-![Cyber](https://img.shields.io/badge/Tool-CyberSecurity-000000?style=flat-square&logo=kali-linux&logoColor=white)
+<!-- Programming Languages -->
+![C](https://img.shields.io/badge/Code-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<!-- Networking & Cyber -->
+![Networking](https://img.shields.io/badge/Tool-Network-00599C?style=flat-square&logo=cisco&logoColor=white)
+![Cyber](https://img.shields.io/badge/Tool-Cyber-000000?style=flat-square&logo=kali-linux&logoColor=white)
 
 ---
 

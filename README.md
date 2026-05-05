@@ -10,12 +10,11 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ###  Featured Data Projects
 *  **[Python-project](https://github.com/Vath7677/Python-project)**: General Python scripting and logic.
-*  **[Pandas-project](https://github.com/Vath7677/Pandas-project)**: Data analysis using the Pandas library.
 *  **[Numpy-project](https://github.com/Vath7677/Numpy-project)**: Array processing and mathematical manipulation.
+*  **[Pandas-project](https://github.com/Vath7677/Pandas-project)**: Data analysis using the Pandas library.
 *  **[Data-Cleaning](https://github.com/Vath7677/Data-Cleaning)**: Automated data preparation and cleaning workflows.
-*  **[EDA-visualization](https://github.com/Vath7677/EDA-visualization)**: Insights through Exploratory Data Analysis.
 *  **[Data-Manipulation-Transformation](https://github.com/Vath7677/Data-Manipulation-Transformation)**: Reshaping and transforming complex datasets.
-
+*  **[EDA-visualization](https://github.com/Vath7677/EDA-visualization)**: Insights through Exploratory Data Analysis.
 ---
 
 ### 🛠 Technologies & Tools

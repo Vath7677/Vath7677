@@ -45,6 +45,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
   * Completed: *Foundations: Data, Data, Everywhere* with a grade of **98%**.
 * **Bachelor of Computer Science** | RUPP (Year 1)
 * Completed Foundations of **Cybersecurity** and **Networking**.
+* Supervised Machine Learning: Regression and Classification: https://coursera.org/share/3b3f242d2743d1bae3672e412ee5f75d
 
 ###  Professional Experience
 * **IT Support** (2 Months)

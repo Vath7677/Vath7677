@@ -15,6 +15,13 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 *  **[Data-Cleaning](https://github.com/Vath7677/Data-Cleaning)**: Automated data preparation and cleaning workflows.
 *  **[Data-Manipulation-Transformation](https://github.com/Vath7677/Data-Manipulation-Transformation)**: Reshaping and transforming complex datasets.
 *  **[EDA-visualization](https://github.com/Vath7677/EDA-visualization)**: Insights through Exploratory Data Analysis.
+
+### ML Foundation
+*  **[Machine_Learning_Foundation](https://github.com/Vath7677/Machine_Learning_Foundation)**: ML concept of the foundation.
+
+###  Supervised Learning  
+*  **[Linear-Regression](https://github.com/Vath7677/Linear-Regression)**: Linear Regression and Multi Regression.
+
 ---
 
 ### 🛠 Technologies & Tools

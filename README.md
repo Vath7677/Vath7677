@@ -20,7 +20,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 *  **[Machine_Learning_Foundation](https://github.com/Vath7677/Machine_Learning_Foundation)**: ML concept of the foundation.
 
 ###  Supervised Learning  
-*  **[Linear-Regression](https://github.com/Vath7677/Linear-Regression)**: Simole Linear Regression and Multi Regression.
+*  **[Linear-Regression](https://github.com/Vath7677/Linear-Regression)**: Simple Linear Regression and Multi Regression.
 *  **[Regularization](https://github.com/Vath7677/Regularization)**: Regularization.
 *  **[Polynomial-Regression](https://github.com/Vath7677/Polynomial-Regression)**: Polynomial-Regression.
 *  **[Regression-Evaluation-Metrics](https://github.com/Vath7677/Regression-Evaluation-Metrics)**: Linear Regression and Multi Regression.

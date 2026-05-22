@@ -36,6 +36,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 ![Matplotlib](https://img.shields.io/badge/Tool-Matplotlib-316192?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Tool-Seaborn-4470AD?style=flat-square&logo=seaborn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/Tool-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 <!-- Programming Languages -->
 ![C](https://img.shields.io/badge/Code-C-A8B9CC?style=flat-square&logo=c&logoColor=white)

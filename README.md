@@ -38,6 +38,8 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 ![SciPy](https://img.shields.io/badge/Library-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-A4C2F4?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Tool-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/Platform-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-username)
+[![Hugging Face](https://img.shields.io/badge/Platform-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/your-username)
 
 <!-- Programming Languages -->
 ![C](https://img.shields.io/badge/Code-C-A8B9CC?style=flat-square&logo=c&logoColor=white)

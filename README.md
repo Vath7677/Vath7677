@@ -29,6 +29,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ### 🛠 Technologies & Tools
 
+#### ML/AI/DL
 <!-- ML & Analysis -->
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -41,6 +42,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 [![Kaggle](https://img.shields.io/badge/Platform-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-username)
 [![Hugging Face](https://img.shields.io/badge/Platform-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/your-username)
 
+#### PROGRAM LAUGUAGES
 <!-- Programming Languages -->
 ![C](https://img.shields.io/badge/Code-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -48,6 +50,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 ![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+#### NETWORK + CYBER
 <!-- Networking & Cyber -->
 ![Networking](https://img.shields.io/badge/Tool-Network-00599C?style=flat-square&logo=cisco&logoColor=white)
 ![Cyber](https://img.shields.io/badge/Tool-Cyber-000000?style=flat-square&logo=kali-linux&logoColor=white)

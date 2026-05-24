@@ -26,9 +26,15 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 *  **[Regression-Evaluation-Metrics](https://github.com/Vath7677/Regression-Evaluation-Metrics)**: Linear Regression and Multi Regression.
 
 #### Supervised Learning Classification
-*
-*
-*
+* **[Logistic-Regression](https://github.com/Vath7677/Logistic-Regression)**: Logistic-Regression.
+* **[K-Nearest-Neighbor-KNN-](https://github.com/Vath7677/K-Nearest-Neighbor-KNN-)**: K-Nearest-Neighbor-KNN-.
+* **[Support-Vector-Machines-SVM-](https://github.com/Vath7677/Support-Vector-Machines-SVM-)**: Support-Vector-Machines-SVM-.
+* **[Logistic-Regression](https://github.com/Vath7677/Logistic-Regression)**: Logistic-Regression.
+* **[Naive-Bayes](https://github.com/Vath7677/Naive-Bayes)**: Naive-Bayes.
+* **[Decision-Trees](https://github.com/Vath7677/Decision-Trees)**: Decision-Trees.
+* **[Random Forests](https://github.com/Vath7677/Random Forests)**: Random Forests.
+* **[Classification-Evaluation-Metrics](https://github.com/Vath7677/Classification-Evaluation-Metrics)**: Classification Evaluation Metrics.
+  
 ---
 
 ### 🛠 Technologies & Tools

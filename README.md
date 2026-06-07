@@ -33,6 +33,12 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 * **[Decision-Trees](https://github.com/Vath7677/Decision-Trees)**: Decision-Trees.
 * **[Random-Forests](https://github.com/Vath7677/Random-Forests)**: Random Forests.
 * **[Classification-Evaluation-Metrics](https://github.com/Vath7677/Classification-Evaluation-Metrics)**: Classification Evaluation Metrics.
+
+### Deep_learning_Foundation 
+
+*  **[Linear-Regression](https://github.com/Vath7677/Linear-Regression)**: Simple Linear Regression and Multi Regression.
+*  **[Linear-Regression](https://github.com/Vath7677/Linear-Regression)**: Simple Linear Regression and Multi Regression.
+
   
 ---
 

@@ -14,30 +14,6 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 *  **[Pandas-project](https://github.com/Vath7677/Pandas-project)**: Data analysis using the Pandas library.
 *  **[Data-Cleaning](https://github.com/Vath7677/Data-Cleaning)**: Automated data preparation and cleaning workflows.
 *  **[Data-Manipulation-Transformation](https://github.com/Vath7677/Data-Manipulation-Transformation)**: Reshaping and transforming complex datasets.
-*  **[EDA-visualization](https://github.com/Vath7677/EDA-visualization)**: Insights through Exploratory Data Analysis.
-
-#### ML Foundation
-*  **[Machine_Learning_Foundation](https://github.com/Vath7677/Machine_Learning_Foundation)**: ML concept of the foundation.
-
-####  Supervised Learning  
-*  **[Linear-Regression](https://github.com/Vath7677/Linear-Regression)**: Simple Linear Regression and Multi Regression.
-*  **[Regularization](https://github.com/Vath7677/Regularization)**: Regularization.
-*  **[Polynomial-Regression](https://github.com/Vath7677/Polynomial-Regression)**: Polynomial-Regression.
-*  **[Regression-Evaluation-Metrics](https://github.com/Vath7677/Regression-Evaluation-Metrics)**: Linear Regression and Multi Regression.
-
-#### Supervised Learning Classification
-* **[Logistic-Regression](https://github.com/Vath7677/Logistic-Regression)**: Logistic-Regression.
-* **[K-Nearest-Neighbor-KNN-](https://github.com/Vath7677/K-Nearest-Neighbor-KNN-)**: K-Nearest-Neighbor-KNN-.
-* **[Support-Vector-Machines-SVM-](https://github.com/Vath7677/Support-Vector-Machines-SVM-)**: Support-Vector-Machines-SVM-.
-* **[Naive-Bayes](https://github.com/Vath7677/Naive-Bayes)**: Naive-Bayes.
-* **[Decision-Trees](https://github.com/Vath7677/Decision-Trees)**: Decision-Trees.
-* **[Random-Forests](https://github.com/Vath7677/Random-Forests)**: Random Forests.
-* **[Classification-Evaluation-Metrics](https://github.com/Vath7677/Classification-Evaluation-Metrics)**: Classification Evaluation Metrics.
-
-### Deep_learning_Foundation 
-
-  
----
 
 ### 🛠 Technologies & Tools
 

@@ -15,7 +15,6 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 
 ### What i have learn
-https://github.com/Vath7677/learn-/edit/main/README.md
 *  **[Python-project](https://github.com/Vath7677/learn-/edit/main/README.md)**: What i have learn.
 
 ### 🛠 Technologies & Tools

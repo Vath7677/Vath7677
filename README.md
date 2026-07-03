@@ -14,7 +14,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 *  **[Face emotions](https://github.com/Vath7677/face_emotion)**: Face emotions.
 
 
-### Core Competencies
+### Core Competencies What i have learn
 *  **[Core Competencies](https://github.com/Vath7677/Core_Competencies)**: python.
 
 ### 🛠 Technologies & Tools
@@ -51,7 +51,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 * Completed: *Foundations: Data, Data, Everywhere* 
 * **Bachelor of Computer Science** | RUPP (Year 1)
 * Completed Foundations of **Cybersecurity** and **Networking**.
-* Supervised Machine Learning: Regression and Classification: https://coursera.org/share/3b3f242d2743d1bae3672e412ee5f75d
+* Supervised Machine Learning: https://coursera.org/share/3b3f242d2743d1bae3672e412ee5f75d
 
 ### Experience
 * **IT Support** (2 Months)

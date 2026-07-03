@@ -15,7 +15,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 
 ### Core Competencies
-*  **[Core Competencies](https://github.com/Vath7677/learn-/edit/main/README.md)**: python.
+*  **[Core Competencies](https://github.com/Vath7677/Core_Competencies)**: python.
 
 ### 🛠 Technologies & Tools
 

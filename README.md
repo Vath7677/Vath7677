@@ -14,8 +14,8 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 *  **[Face emotions](https://github.com/Vath7677/face_emotion)**: Face emotions.
 
 
-### What i have learn
-*  **[Python-project](https://github.com/Vath7677/learn-/edit/main/README.md)**: What i have learn.
+### Core Competencies
+*  **[Core Competencies](https://github.com/Vath7677/learn-/edit/main/README.md)**: python.
 
 ### 🛠 Technologies & Tools
 

@@ -8,7 +8,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ---
 
-###  Featured Data Projects
+###  Featured Data Projects Deep-Learning
 *  **[OCR Recognizer](https://github.com/Vath7677/OCR_CONVERTER)**: OCR Recognizer.
 *  **[Stock Price Predictor](https://github.com/Vath7677/Stock_price_prediction)**: Stock Price Predictor.
 *  **[Face emotions](https://github.com/Vath7677/face_emotion)**: Face emotions.

@@ -9,11 +9,14 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 ---
 
 ###  Featured Data Projects
-*  **[Python-project](https://github.com/Vath7677/Python-project)**: General Python scripting and logic.
-*  **[Numpy-project](https://github.com/Vath7677/Numpy-project)**: Array processing and mathematical manipulation.
-*  **[Pandas-project](https://github.com/Vath7677/Pandas-project)**: Data analysis using the Pandas library.
-*  **[Data-Cleaning](https://github.com/Vath7677/Data-Cleaning)**: Automated data preparation and cleaning workflows.
-*  **[Data-Manipulation-Transformation](https://github.com/Vath7677/Data-Manipulation-Transformation)**: Reshaping and transforming complex datasets.
+*  **[OCR Recognizer](https://github.com/Vath7677/OCR_CONVERTER)**: OCR Recognizer.
+*  **[Stock Price Predictor](https://github.com/Vath7677/Stock_price_prediction)**: Stock Price Predictor.
+*  **[Face emotions](https://github.com/Vath7677/face_emotion)**: Face emotions.
+
+
+### What i have learn
+https://github.com/Vath7677/learn-/edit/main/README.md
+*  **[Python-project](https://github.com/Vath7677/learn-/edit/main/README.md)**: What i have learn.
 
 ### 🛠 Technologies & Tools
 

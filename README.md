@@ -16,6 +16,9 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 
 ### Core Competencies & Skills
+
+#### - What i have learn 
+
 *  **[Core Competencies](https://github.com/Vath7677/Core_Competencies)**: Python ,NumPy, Pandas, Matplotlib, Seaborn, Regression, Classification, KNN, Naive Bayes, Decision Trees, Scikit-Learn, Pytrorch.
 
 

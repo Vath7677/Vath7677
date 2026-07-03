@@ -15,8 +15,9 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 *  **[Face emotions](https://github.com/Vath7677/face_emotion)**: Face emotions.
 
 
-### Core Competencies What i have learn
-*  **[Core Competencies](https://github.com/Vath7677/Core_Competencies)**: python.
+### Core Competencies & Skills
+*  **[Core Competencies](https://github.com/Vath7677/Core_Competencies)**: Python ,NumPy, Pandas, Matplotlib, Seaborn, Regression, Classification, KNN, Naive Bayes, Decision Trees, Scikit-Learn, Pytrorch.
+
 
 ### 🛠 Technologies & Tools
 

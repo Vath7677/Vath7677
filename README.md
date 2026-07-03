@@ -8,11 +8,11 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ---
 
-###  Featured Data Projects Deep-Learning
-*  **[Data Analysis](https://github.com/Vath7677/Data-Analysis)**: Data Analysis.
-*  **[OCR Recognizer](https://github.com/Vath7677/OCR_CONVERTER)**: OCR Recognizer.
-*  **[Stock Price Predictor](https://github.com/Vath7677/Stock_price_prediction)**: Stock Price Predictor.
-*  **[Face emotions](https://github.com/Vath7677/face_emotion)**: Face emotions.
+###  Featured Projects Deep-Learning
+*  **[Data Analysis](https://github.com/Vath7677/Data-Analysis)**: Performed exploratory data analysis (EDA) to uncover trends and insights in complex datasets.
+*  **[OCR Recognizer](https://github.com/Vath7677/OCR_CONVERTER)**: Built an optical character recognition tool to extract text from images and documents.
+*  **[Stock Price Predictor](https://github.com/Vath7677/Stock_price_prediction)**: Developed a predictive model to forecast financial market trends using historical stock data.
+*  **[Face emotions](https://github.com/Vath7677/face_emotion)**: Created a deep learning model to detect and classify human facial expressions from real-time imagery.
 
 
 ### Core Competencies & Skills

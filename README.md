@@ -25,7 +25,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ### 🛠 Technologies & Tools
 
-#### ML/AI/DL
+#### ML/DL
 <!-- ML & Analysis -->
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)

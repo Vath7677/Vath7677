@@ -66,14 +66,6 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 * **IT Support** (2 Months)
   * Provided technical assistance, troubleshooting hardware/software, and maintained network connectivity.
 
-####  Cybersecurity & Networking
-* **Knowledge:** Network Foundations, Operating System Security.
-* **Tools:** Familiar with Kali Linux.
-
-####  Software Development
-* **Languages:** Learning **Kotlin** for modern app development.
-* **Operating System:** Beginner user of **Ubuntu**
-  
 ---
 
 ###  Contact Me

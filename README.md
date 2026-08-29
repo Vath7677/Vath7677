@@ -58,7 +58,7 @@ I am a **Computer Science student** at the **Royal University of Phnom Penh (RUP
 
 ###  Certifications & Education
 * Completed: *Foundations: Data, Data, Everywhere* 
-* **Bachelor of Computer Science** | RUPP (Year 1)
+* **Bachelor of Computer Science** | RUPP 
 * Completed Foundations of **Cybersecurity** and **Networking**.
 * Supervised Machine Learning: https://coursera.org/share/3b3f242d2743d1bae3672e412ee5f75d
 
